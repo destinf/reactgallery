@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots GalleryImage default 1`] = `
+<img
+  className="img-fluid"
+  onClick={[Function]}
+  src="https://via.placeholder.com/500"
+/>
+`;
+
+exports[`Storyshots GalleryRow default 1`] = `
+<tr>
+  <td>
+    <img
+      className="img-fluid"
+      onClick={[Function]}
+      src="https://via.placeholder.com/500"
+    />
+  </td>
+  <td>
+    <img
+      className="img-fluid"
+      onClick={[Function]}
+      src="https://via.placeholder.com/500"
+    />
+  </td>
+  <td>
+    <img
+      className="img-fluid"
+      onClick={[Function]}
+      src="https://via.placeholder.com/500"
+    />
+  </td>
+  <td>
+    <img
+      className="img-fluid"
+      onClick={[Function]}
+      src="https://via.placeholder.com/500"
+    />
+  </td>
+  <td>
+    <img
+      className="img-fluid"
+      onClick={[Function]}
+      src="https://via.placeholder.com/500"
+    />
+  </td>
+</tr>
+`;

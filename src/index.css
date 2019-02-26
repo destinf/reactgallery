@@ -1,0 +1,12 @@
+.image-modal {
+  width: 60%;
+  max-width: none !important;
+}
+
+.table td {
+  border-top: 0px;
+}
+
+.gallery {
+  min-height: 100%
+}
